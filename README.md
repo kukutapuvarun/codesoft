@@ -1,6 +1,6 @@
 #codesoft: Java Programming Internship
 
-This internship entails Java programming and involves completing three tasks: [Number Game](#TASK1), [Word Counter](#TASK2), and [ATM Interface](#TASK3).
+This internship entails Java programming and involves completing three tasks: [Number Game](Number_Game.java), [Word Counter](WordCounterGUI.java), and [ATM Interface](ATMinterface.java).
 
 ## TASK 1: NUMBER GAME
 * Generate a random number within a specified range, 1 to 100.
